@@ -2,70 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="637231ae-3a27-480c-bc59-186253063093" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/funcoes/ChamandoFuncaoKotlin.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/funcoes/FuncaoComoParam1.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/funcoes/FuncaoComoParam2.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/funcoes/FuncaoInfix.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/funcoes/Inline1.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/funcoes/Inline2.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/funcoes/MultiplosRetornos.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/funcoes/ParametrosImutaveis.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/funcoes/ParamsPadroes.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/funcoes/SegundoElementoList.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/funcoes/UnitReturn.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/funcoes/VarArgs.kt" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/META-INF/kotlin-estudo-casa.kotlin_module" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/funcoes/ArgsNomeadosKt.class" afterPath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/funcoes/ArgsNomeadosKt.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/funcoes/TopLevelKt.class" afterPath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/funcoes/TopLevelKt.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/ChamadaSeguraKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/ComentariosKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/ConstKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/ConstjavaKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/CuidadoInferencia1Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/CuidadoInferencia2Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/ForcandoExcecaoNullPointerKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/FuncaoComRetornoKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/FuncaoSemRetornoKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/NotacaoPontoKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/OperadorElvisKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/PrimeiroProgramaKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/TemplateString1Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/TemplateString2Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/TesteImportKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/TiposBasicosKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/VarKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/controles/Break1Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/controles/Break2Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/controles/ContinueKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/controles/DoWhileKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/controles/For1Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/controles/For2Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/controles/For3Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/controles/For4Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/controles/IfElse2Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/controles/IfElseIfKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/controles/IfElseKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/controles/IfKt$main$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/controles/IfKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/controles/RefatorandoParaWhenKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/controles/While1Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/controles/While2Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/operadores/AritmeticosKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/operadores/AtribuicaoKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/operadores/Carro.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/operadores/DestructuringKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/operadores/LogicosKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/operadores/RelacionaisKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/operadores/Ternario1Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/operadores/Ternario2Kt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/operadores/UnariosKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/pacoteA/Coisa.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/pacoteA/FaceMoeda.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/pacoteA/MisturaKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-estudo-casa/fundamentos/pacoteB/MatematicaKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/funcoes/TopLevel.kt" afterPath="$PROJECT_DIR$/src/funcoes/TopLevel.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -120,8 +57,8 @@
       <file leaf-file-name="Inline2.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/funcoes/Inline2.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="342">
+              <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -201,9 +138,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,6 +162,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -431,8 +368,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-11" width="1301" height="772" extended-state="6" />
-    <editor active="true" />
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -441,12 +377,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32732734" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27682737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2762763" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31514218" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31437355" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -457,7 +393,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32732734" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -759,8 +695,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/funcoes/Inline2.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="342">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding />
         </state>
       </provider>
